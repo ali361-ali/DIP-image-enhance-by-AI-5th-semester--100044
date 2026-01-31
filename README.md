@@ -1,5 +1,5 @@
 # 100044-image-enhance-by-AI.  # Interactive Digital Image Processing Studio
-
+name: ALI RAZA.                        roll number:100044.                     semester:5th.                          class BSCS 
 ## Project Overview
 This project is an Interactive Image Processing Application developed using **Python** and **OpenCV**. It is designed to run in a Jupyter/Google Colab environment, providing a real-time Graphical User Interface (GUI) to manipulate images.
 
